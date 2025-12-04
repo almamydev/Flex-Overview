@@ -9,3 +9,8 @@ In production, Flex relies on a modern containerized stack using **Docker**, wit
 Core features include **Sales**, **Billing**, **Human Resources**, and **Client Management**, covering the essential operational needs of most SMEs and service-oriented structures. Thanks to its Django foundation, new modules and customizations can be added quickly and safely.
 
 Flex’s mission is simple: provide a robust, accessible ERP that adapts to local business realities while remaining easy to deploy, maintain, and extend.
+
+---
+
+Live demo 
+👉 ![FLexLiveDemo](http://demo.flextls.tech)
