@@ -13,4 +13,4 @@ Flex’s mission is simple: provide a robust, accessible ERP that adapts to loca
 ---
 
 Live demo 
-👉 ![FLexLiveDemo]()(http://demo.flextls.tech)
+👉 http://demo.flextls.tech
