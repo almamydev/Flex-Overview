@@ -1,6 +1,11 @@
+
+![Logo Flex](./Logo_Flex.png)
+
 # ⭐ Flex — Multi-Tenant ERP Built with Django
 
 **Flex** is a lightweight, modular ERP built with **Python/Django**, designed to offer an affordable and customizable management solution for small and medium-sized businesses in Côte d’Ivoire. Its purpose is to deliver essential business tools to SMEs and service companies without the complexity of traditional enterprise systems.
+
+![Flex Modules View](./flex_modules.png)
 
 Flex uses a **schema-based multi-tenant architecture**, where each client (tenant) has its own PostgreSQL schema. This provides clear data isolation, improved security, and the ability to customize features per tenant when needed. Access to each tenant environment is handled via **subdomain-based routing**, such as `client.flex.com`, ensuring a clean and intuitive separation.
 
